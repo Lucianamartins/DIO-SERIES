@@ -1,6 +1,6 @@
 # DIO-SERIES
 
-A DIO.Series é uma aplicação console em .NET (dotnet) e c# (csharp) para você consultar, incluir, listar e deletar suas
+A DIO.Series é uma aplicação console em .NET (dotnet) e c# (csharp) para você consultar, incluir, listar e deletar suas séries.
 ## Tecnologias
 - .NET
 - Visual Studio 2019
