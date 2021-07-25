@@ -1,0 +1,11 @@
+D:\luciana\digital_innovation\C#\DIO.SERIES\DIO.SERIES\bin\Debug\netcoreapp2.1\DIO.SERIES.deps.json
+D:\luciana\digital_innovation\C#\DIO.SERIES\DIO.SERIES\bin\Debug\netcoreapp2.1\DIO.SERIES.runtimeconfig.json
+D:\luciana\digital_innovation\C#\DIO.SERIES\DIO.SERIES\bin\Debug\netcoreapp2.1\DIO.SERIES.runtimeconfig.dev.json
+D:\luciana\digital_innovation\C#\DIO.SERIES\DIO.SERIES\bin\Debug\netcoreapp2.1\DIO.SERIES.dll
+D:\luciana\digital_innovation\C#\DIO.SERIES\DIO.SERIES\bin\Debug\netcoreapp2.1\DIO.SERIES.pdb
+D:\luciana\digital_innovation\C#\DIO.SERIES\DIO.SERIES\obj\Debug\netcoreapp2.1\DIO.SERIES.csprojAssemblyReference.cache
+D:\luciana\digital_innovation\C#\DIO.SERIES\DIO.SERIES\obj\Debug\netcoreapp2.1\DIO.SERIES.csproj.CoreCompileInputs.cache
+D:\luciana\digital_innovation\C#\DIO.SERIES\DIO.SERIES\obj\Debug\netcoreapp2.1\DIO.SERIES.AssemblyInfoInputs.cache
+D:\luciana\digital_innovation\C#\DIO.SERIES\DIO.SERIES\obj\Debug\netcoreapp2.1\DIO.SERIES.AssemblyInfo.cs
+D:\luciana\digital_innovation\C#\DIO.SERIES\DIO.SERIES\obj\Debug\netcoreapp2.1\DIO.SERIES.dll
+D:\luciana\digital_innovation\C#\DIO.SERIES\DIO.SERIES\obj\Debug\netcoreapp2.1\DIO.SERIES.pdb
